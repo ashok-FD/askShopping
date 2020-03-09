@@ -1,0 +1,21 @@
+.carousel {
+    height: 400px;
+    width: 100%;
+    padding-top: 40px;
+}
+
+.carousel-inner img {
+    height: 400px;
+    max-height: 400px;
+    margin: 2px;
+    padding: 20px;
+    width: 100%;
+}
+
+.carousel-indicators {
+    width: auto;
+    margin-left: 750px;
+    bottom: -20px;
+    transform: translateX(-50%);
+    z-index: 0;
+}

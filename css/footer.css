@@ -1,0 +1,10 @@
+#sticky-footer {
+    flex-shrink: none;
+}
+ #sticky-footer{
+    margin-bottom:0px;
+} 
+.socialIcon{
+    text-align: center;
+    cursor: pointer;
+}

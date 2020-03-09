@@ -1,0 +1,30 @@
+.productSmallImage {
+    width: 80px;
+    height: 100px;
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.thumbnailSmallImage {
+    padding: 20px;
+}
+
+.sareeThumbnail {
+    width: 350px;
+    height: 480.112px;
+}
+
+.add-to-cart:hover {
+    background: seagreen;
+    color: #fff;
+}
+
+.like:hover {
+    background: red;
+    color: #fff;
+}
+
+.not-available {
+    text-align: center;
+    line-height: 2em;
+}

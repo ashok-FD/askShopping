@@ -1,0 +1,34 @@
+/* .profilePage {
+     border: 1px solid black; 
+} */
+#profileLogo{
+    width:80px;
+    height:80px;
+}
+#profileCard {
+    margin-top: 60px;
+    margin-left: 280px;
+}
+
+#profileCardContent {
+    text-align: center;
+}
+
+.form-control-plaintext {
+    padding: 10px;
+}
+#btn_enable,
+#ok,
+#cancel,
+#btn_disable {
+    width: 100%;
+}
+
+#profileRow {
+    padding-left: 50px;
+}
+
+.custom-select {
+    border: none;
+    padding-left: 10px;
+}
